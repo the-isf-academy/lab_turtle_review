@@ -2,9 +2,8 @@
 name = "lab-ball-animation"
 version = "0.1.0"
 description = ""
-authors = ["emma <eqbrown@isf.edu.hk>"]
+authors = ["britte <bgenzlinger@isf.edu.hk>"]
 readme = "README.md"
-packages = [{include = "lab_ball_animation"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
