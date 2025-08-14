@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "lab-ball-animation"
+name = "lab-turtle-review"
 version = "0.1.0"
 description = ""
 authors = ["britte <bgenzlinger@isf.edu.hk>"]
