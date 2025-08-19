@@ -14,6 +14,6 @@ def square(size):
     forward(50)
     right(90)
 
-square(100) # calls function
+square(400) # calls function
 
 input() # keeps window open
