@@ -5,13 +5,13 @@ from turtle import *
 #   - how can you incorporate a for loop? 
 #   - how can you incorporate a color parameter? 
 def square(size):
-    forward(size)
+    forward(50)
     right(90)
-    forward(size)
+    forward(50)
     right(90)
-    forward(size)
+    forward(50)
     right(90)
-    forward(size)
+    forward(50)
     right(90)
 
 square(100) # calls function
